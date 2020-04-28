@@ -10,6 +10,16 @@ This is a small Tank game built in order to experiment with the [Unity ML-Agents
 ## Configuration
 Edit the `Packages/manifest.json` to point the ml-agents package to the right repository. Once this is done, the project can be opened in Unity. Different trained models are available in `Assets/Tank/TF_Models`. In the Unity editor, it is possible to edit the tank prefab to select the model to use.
 
+## Contributors
+
+[Randy Sab-Roy](https://github.com/randy-sab-roy)
+
+[Rose Hirigoyen](https://github.com/rooose)
+
+[Thierry Dubois](https://github.com/ThierryDubois)
+
+[Adem Aber Aouni](https://github.com/ThePhosphorus)
+
 ## Tanks in action
 ![Gameplay](Screenshots/tank_1.gif)
 ![Gameplay](Screenshots/tank_2.gif)
